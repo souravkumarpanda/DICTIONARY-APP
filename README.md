@@ -1,0 +1,2 @@
+# DICTIONARY-APP
+Creating a DICTIONARY PROJECT by using MERN Stack
