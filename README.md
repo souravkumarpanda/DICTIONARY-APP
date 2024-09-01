@@ -3,11 +3,9 @@
 
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `fem-dictionary-web-app` project on your localhost:
 
-1. **Clone the Repository:**
-   If you haven't already, clone the repository as mentioned earlier:
-
-   ```sh
-   git clone https://github.com/developerrahulofficial/dictionary-app.git
+1. **Repository Link:**
+   ```
+   https://github.com/souravkumarpanda/DICTIONARY-APP/edit/main/README.md
    ```
 
 2. **Navigate to the Project Directory:**
